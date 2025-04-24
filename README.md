@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+# Hi, I'm Amit 👋
+I'm a 2nd-year Computer Science student exploring AI, ML, and CUDA programming.  
+🔭 Currently working on real-time computer vision projects.  
+💡 Interested in NVIDIA internship opportunities and GPU development.  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amit-kumar-491821322)
 <!--
 **Amitk003/Amitk003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
