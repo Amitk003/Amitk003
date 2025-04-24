@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Amit 👋
-I'm a 2nd-year Computer Science student exploring AI, ML, and CUDA programming.  
+I'm a 1st-year Computer Science student exploring AI, ML, and CUDA programming.  
 🔭 Currently working on real-time computer vision projects.  
 💡 Interested in NVIDIA internship opportunities and GPU development.  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amit-kumar-491821322)
