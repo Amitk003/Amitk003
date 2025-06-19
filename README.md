@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# Hi, I'm Amit 👋
+# I'm Amit 👋
 I'm a Computer Science student exploring AI, ML, and CUDA programming.  
 🔭 Currently working on real-time computer vision projects.  
 💡 Interested in NVIDIA internship opportunities and GPU development.  
