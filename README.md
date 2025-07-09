@@ -6,7 +6,7 @@
 	<br>
 </div>
 
-<h1 align="center">Hey I'm Amit the coder </h1>
+<h1 align="center">Hey I'm Amit the coder 👋 </h1>
 <h3 align="center">"I'm a Computer Science student exploring AI/ML tech field."</h3>
 
 ## 🎯 Interests:
