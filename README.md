@@ -7,15 +7,12 @@
 </div>
 
 <h1 align="center">Hey I'm Amit the coder </h1>
-<h3 align="center">I'm a Computer Science student exploring AI, ML, and CUDA programming.</h3> 
+<h3 align="center">I'm a Computer Science student exploring AI/ML tech field.</h3>
 
-### Currently Working on AI/ML projects
+## Interests:
+- Love Coding,Enjoy Coding and I hate Bugs.
+- Love Exploring new AI tools.
 
-### Interests:
-- Coding Projects
-- Working In team
-- Exploring new tech
-
-### Contact me :
+## Contact me :
 - 🔗 [LinkedIn](https://www.linkedin.com/in/amit-kumar-491821322)  
 - 📩 [Email me](mailto:amitk.work017@outlook.com)
