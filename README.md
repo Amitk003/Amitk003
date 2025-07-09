@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
 
 # I'm Amit 🤖
 I'm a Computer Science student exploring AI, ML, and CUDA programming.  
