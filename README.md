@@ -6,6 +6,8 @@
 	<br>
 </div>
 
+##Hi there 👋
+
 # I'm Amit 🤖
 I'm a Computer Science student exploring AI, ML, and CUDA programming.  
 🔭 Currently working on real-time computer vision projects.  
