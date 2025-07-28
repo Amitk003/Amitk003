@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">
+  Hey, I'm Amit — the coder 👋
+</h1>
 
-<!--
-**Amitk003/Amitk003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 A developer passionate about building cool things with <strong>Python</strong>, <strong>C</strong>, and <strong>AI</strong>.<br>
+  Contributing to open source and exploring real-world software projects.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [💼 Job Finder Bot](https://github.com/Amitk003/job-finder) | Automates the process of finding Python/AI internships and notifies via Telegram. Uses n8n, Sheets & GitHub as safe sources. |
+| [💬 Real-time Chat App](https://github.com/Amitk003/realtime-chat-app) | Chat application built with Firebase and JS for seamless real-time messaging. |
+| [🧪 What-If Plot Generator](https://github.com/Amitk003/infinity-plot-generator) | AI-powered tool to generate alternate storylines and creative “what-if” plots. |
+| [🛍️ Flipkart Product Research Tool](https://github.com/Amitk003/flipkart-product-research-assistant) | Web scraper and recommender for resellers to find top-rated or affordable Flipkart products. |
+| [🧩 Small Projects](https://github.com/Amitk003/Small-Projects) | A collection of mini-tools, experiments, and Python snippets for learning and utility. |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode,firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amitk003&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitk003&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amitk003/"><img src="https://img.shields.io/badge/LinkedIn-AmitK003-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:amit.work017@outlook.com"><img src="https://img.shields.io/badge/email-amit.work017@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Always building. Always learning.<br>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="amit-banner.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="amit-banner.svg" />
+  <img alt="github-snake" src="amit-banner.svg" />
+</picture>
+</p>
