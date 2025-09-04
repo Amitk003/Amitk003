@@ -30,8 +30,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="amit-banner.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="amit-banner.svg" />
-  <img alt="github-snake" src="amit-banner.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="amit-banner01.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="amit-banner01.svg" />
+  <img alt="github-snake" src="amit-banner01.svg" />
 </picture>
 </p>
