@@ -7,31 +7,10 @@
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [💼 Job Finder Bot](https://github.com/Amitk003/job-finder) | Automates the process of finding Python/AI internships and notifies via Telegram. Uses n8n, Sheets & GitHub as safe sources. |
-| [💬 Real-time Chat App](https://github.com/Amitk003/realtime-chat-app) | Chat application built with Firebase and JS for seamless real-time messaging. |
-| [🧪 What-If Plot Generator](https://github.com/Amitk003/infinity-plot-generator) | AI-powered tool to generate alternate storylines and creative “what-if” plots. |
-| [🛍️ Flipkart Product Research Tool](https://github.com/Amitk003/flipkart-product-research-assistant) | Web scraper and recommender for resellers to find top-rated or affordable Flipkart products. |
-| [🧩 Small Projects](https://github.com/Amitk003/Small-Projects) | A collection of mini-tools, experiments, and Python snippets for learning and utility. |
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode,firebase" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitk003&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitk003&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
