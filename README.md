@@ -1,6 +1,4 @@
-<h1 align="center">
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=Hi%20I'm%20Amit%20👨‍💻&fontSize=50&fontColor=fff&animation=fadeIn)
-</h1>
 
 <p align="center">
   💻 A developer passionate about building cool things with <strong>Python</strong>, <strong>C</strong>, and <strong>AI</strong>.<br>
